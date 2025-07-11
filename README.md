@@ -1,6 +1,6 @@
 # Description ✔️
 
-🔷 This is a practice project that looks like a real shopping cart.
+> 🔷 This is a practice project that looks like a real shopping cart.
 
 # Advantages and Disadvantages ✅❌
 - ✅ Has product categories
